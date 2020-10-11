@@ -1,0 +1,11 @@
+Data Preprocessing and Feature Engineering
+
+Only basic preprocessing techniques were applied to this dataset. Some ideas for feature engineering that could enhance the dataset include adding a series to the dataframe that is the increase/decrease from the day before, or adding columns that contain the day of the week or month. 
+
+Ideas for the dataset
+
+The two models I trained performed quite badly. This application was difficult for me, as I have absolutely no background in statistics. 
+
+However, I found a method from sklearn that could possibly be applied: TimeSeriesSplit. Because of the limited documentation, I did not attempt its implementation, but it seems similar to the approach that Dr. K. mentioned in class that is similar to cross validation but for Time Series data. 
+
+Additionally, if I had more experience with statistics and programming, I would try applying ARIMA and a recurrent neural network to the dataset. 

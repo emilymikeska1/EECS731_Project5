@@ -1,4 +1,4 @@
-#EECS731_Project5
+EECS731_Project5
 
 Project 5 - World Wide Products Inc.
 
